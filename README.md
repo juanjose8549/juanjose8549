@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanjose8549
-- 👀 I’m interested in backend
+- 👀 I’m a python developer interested in backend with graphql
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on remote projects
 - 📫 How to reach me [
